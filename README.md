@@ -1,6 +1,6 @@
 # First project
 
-## List iItems
+## List Items
 
 - Items 1
   - sub item 1
