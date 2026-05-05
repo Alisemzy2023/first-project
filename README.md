@@ -8,4 +8,4 @@
 
 - Items 2
   - sub item 1
-  - Sub item 2
+  * Sub item 2
